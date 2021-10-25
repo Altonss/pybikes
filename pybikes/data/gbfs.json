@@ -876,13 +876,13 @@
             "feed_url": "https://gbfs.urbansharing.com/bergenbysykkel.no/gbfs.json"
         },
         {
-            "tag":"trondheim-bysykkel",
+            "tag": "trondheim-bysykkel",
             "meta":{
-                "latitude":63.4307238,
-                "country":"NO",
-                "name":"Bysykkel",
-                "longitude":10.3936781,
-                "city":"Trondheim"
+                "latitude": 63.4307238,
+                "country": "NO",
+                "name": "Bysykkel",
+                "longitude": 10.3936781,
+                "city": "Trondheim"
             },
             "feed_url": "https://gbfs.urbansharing.com/trondheimbysykkel.no/gbfs.json"
         },
